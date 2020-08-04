@@ -8,15 +8,15 @@
 
 ### 教育背景
 * 2017年9月至今  
-东南大学，仪器科学与工程学院(学科评估A-)，测控技术与仪器，卓越班
+**东南大学**，仪器科学与工程学院(学科评估A-)，测控技术与仪器，卓越班
 * 2019年10月-2020年3月  
-国家留学基金委(CSC)全额奖学金，亚琛工业大学(RWTH Aachen)，电子与信息技术系访问6个月  
+国家留学基金委(CSC)全额奖学金，**亚琛工业大学(RWTH Aachen)**，电子与信息技术系访问6个月  
 
 ### 成绩
 **均分排名**&emsp; 20/93&emsp; **均分**&emsp; 96.2  
 科研、竞赛有政策性加分，预计综合排名5-15  
-**英语四级**&emsp; **606**&emsp; **雅思**&emsp; **7.0**  
-**英语六级**&emsp; **573** &emsp; **德语**&emsp; A2  
+**英语四级**&emsp; 606&emsp; **雅思**&emsp; 7.0  
+**英语六级**&emsp; 573&emsp; **德语**&emsp; A2  
 
 ### 获奖经历
 部分竞赛获奖 & 奖励：  
@@ -25,9 +25,9 @@
 * 2019.01，中国导航定位协会-北斗杯全国科技创新大赛，华东赛区三等奖
 * 2019.06，国家留学基金委(CSC)-优秀本科生项目，国家级奖学金
 论文 & 专利：  
-* 2019.10，**Creating Controllable Dynamic Effects with Mobile AR**，投稿**ACM CHI2020**
-* 2020.05，**Field-in-Markers: Flexible Interaction with Dynamic Effects using Mobile AR**，投稿**ACM UIST2020**
-* 2020.06，**一种面向主动康复训练的增强现实运动信息可视系统**，**专利**  
+* 2019.10，**Creating Controllable Dynamic Effects with Mobile AR**，投稿ACM CHI 2020
+* 2020.05，**Field-in-Markers: Flexible Interaction with Dynamic Effects using Mobile AR**，投稿ACM UIST 2020
+* 2020.06，**一种面向主动康复训练的增强现实运动信息可视系统**，专利  
 
 ### 科研经历
 * 2018.10-2018.12，**基于视觉的微型智能车辆测控系统**，负责交通标志牌识别的视觉算法设计，参与车道检测、行驶控制、交通场景搭建等其他环节，期间到自动化所做项目分享报告。
