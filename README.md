@@ -9,7 +9,7 @@
 ### 教育背景
 * 2017年9月至今  
 东南大学，仪器科学与工程学院(学科评估A-)，测控技术与仪器，卓越班
-* 2019年10月-2020年3月
+* 2019年10月-2020年3月  
 国家留学基金委(CSC)全额奖学金，亚琛工业大学(RWTH Aachen)，电子与信息技术系访问6个月  
 
 ### 成绩
@@ -38,5 +38,5 @@
 ### 专业技能
 常用：MATLAB，Git/GitHub，Python，Unity  
 了解：C/C++，Quartus，Multisim，Premier，Photoshop  
-My online CV page https://zzfon.github.io/  
-My GitHub Homepage	https://github.com/zzFon
+My online CV page [https://zzfon.github.io/](https://zzfon.github.io/)  
+My GitHub Homepage	[https://github.com/zzFon](https://github.com/zzFon)
