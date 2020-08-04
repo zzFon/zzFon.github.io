@@ -25,8 +25,8 @@
 * 2019.01，中国导航定位协会-北斗杯全国科技创新大赛，华东赛区三等奖
 * 2019.06，国家留学基金委(CSC)-优秀本科生项目，国家级奖学金
 论文 & 专利：  
-* 2019.10，**Creating Controllable Dynamic Effects with Mobile AR**，**投稿ACM CHI2020**
-* 2020.05，**Field-in-Markers: Flexible Interaction with Dynamic Effects using Mobile AR**，**投稿ACM UIST2020**
+* 2019.10，**Creating Controllable Dynamic Effects with Mobile AR**，投稿**ACM CHI2020**
+* 2020.05，**Field-in-Markers: Flexible Interaction with Dynamic Effects using Mobile AR**，投稿**ACM UIST2020**
 * 2020.06，**一种面向主动康复训练的增强现实运动信息可视系统**，**专利**  
 
 ### 科研经历
