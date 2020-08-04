@@ -1,6 +1,6 @@
 # 招梓枫
 **手   机**&emsp; 18903062208  
-**邮   箱**&emsp; zifeng_z@foxmail.com  
+**邮   箱**&emsp; [zifeng_z@foxmail.com](zifeng_z@foxmail.com)  
 **微信/QQ**&emsp; 735239697  
 
 ### 个人信息
