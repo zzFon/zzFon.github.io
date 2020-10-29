@@ -23,15 +23,15 @@
 * 半年期交换生，期间获国家留学基金委(CSC)全额奖学金  
 
 ### 项目经历
-**公共场所枪击事件声学检测**，2018.04-2018.08
+**公共场所枪击事件声学检测**，2018.04-2018.08，GitHub链接：https://github.com/zzFon/Gun-Shot-Detection-and-Positioning_Matlab
 * 使用机器学习模型进行声学信号检测与数据增强
 * 使用 MATLAB、Python+Tensorflow+sklearn，采用 GMM/C-RNN/WaveGAN 架构
 * **申请专利１项，发表国际研讨会短论文１篇**  
   
-**基于视觉的微型智能车测控系统**，2018.09-2018.12
+**基于视觉的微型智能车测控系统**，2018.09-2018.12，GitHub链接：https://github.com/zzFon/Smart-Car-Sensing_OpenCV_Python
 * 使用树莓派、Python+OpenCV 进行交通标志识别、车道线检测拟合、导航  
   
-**基于矢量场的增强现实(AR)动态粒子效果控制**，2019.06-2020.09  
+**基于矢量场的增强现实(AR)动态粒子效果控制**，2019.06-2020.09，GitHub链接：https://github.com/zzFon/Field-in-Marker  
 * 应用矢量场算法实现高度可交互的 AR 流场效果
 * 使用 Unity+Vuforia，用户通过 GUI 控制动态粒子的生成和流动，从而实现复杂有趣的 AR 效果
 * **申请专利 1 项，投稿 ACM 会议论文２篇**
