@@ -56,7 +56,7 @@
  * 与深圳市科协、机器人协会、信息行业协会合作，**正在参与项目竞标(15 万元)**
 
 ### 技能
-* 常用的技术工具：MATLAB，Unity，Git/GitHub(https://github.com/zzFon)
+* 常用的技术工具：**MATLAB**，Unity，**Git/GitHub**(https://github.com/zzFon)
 * 使用过的技术工具：**Python(Tensorflow/sklearn/OpenCV)**，C/C++，Multisim，Quartus，Vivado
 * 办公工具：PPT/Excel/Word，Premier，Photoshop
 * 语言能力：普通话、粤语、**英语(四级 600+/六级 570+/雅思 7.0)**、德语(基础) 
